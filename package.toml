@@ -18,7 +18,7 @@
   uri = "public.ecr.aws/initializ/php-buildpack@sha256:6bb1e9a491a7b82037f7d95ac8512b5af044e9379433f2b01b1730d45e59ef81"
 
 [[dependencies]]
-  uri = "public.ecr.aws/initializ/nodejs@sha256:7d7fc0d174da638aadc6618c39412d05ee06ebd7ac480ec39322b85d9e8378e6"
+  uri = "public.ecr.aws/initializ/nodejs@sha256:a27b03f34b66e6e42cdc39a940ceaa578c88e97733f08fb7079bb1dcf3be8386"
 
 [[dependencies]]
   uri = "public.ecr.aws/initializ/nodejs@sha256:3d95765211363b8ff7880cd0af90dabe35c7baa22fdf6b02bce21c459ea458ab"
