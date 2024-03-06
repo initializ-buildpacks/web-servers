@@ -108,7 +108,7 @@ func testNginx(t *testing.T, context spec.G, it spec.S) {
 
 				Expect(logs).To(ContainLines(ContainSubstring("web: nginx -p $PWD -c nginx.conf -g 'pid /tmp/server.pid;'")))
 
-				Expect(image.Buildpacks[4].Key).To(Equal("paketo-buildpacks/environment-variables"))
+				Expect(image.Buildpacks[4].Key).To(Equal("initializ-buildpacks/environment-variables"))
 				Expect(image.Buildpacks[4].Layers["environment-variables"].Metadata["variables"]).To(Equal(map[string]interface{}{"SOME_VARIABLE": "some-value"}))
 				Expect(image.Labels["some-label"]).To(Equal("some-value"))
 

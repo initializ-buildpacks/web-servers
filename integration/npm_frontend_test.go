@@ -116,7 +116,7 @@ func testNPMFrontend(t *testing.T, context spec.G, it spec.S) {
 
 				Expect(logs).NotTo(ContainLines(ContainSubstring("Buildpack for Apache HTTP Server")))
 
-				Expect(image.Buildpacks[7].Key).To(Equal("paketo-buildpacks/environment-variables"))
+				Expect(image.Buildpacks[7].Key).To(Equal("initializ-buildpacks/environment-variables"))
 				Expect(image.Buildpacks[7].Layers["environment-variables"].Metadata["variables"]).To(Equal(map[string]interface{}{"SOME_VARIABLE": "some-value"}))
 				Expect(image.Labels["some-label"]).To(Equal("some-value"))
 
@@ -300,7 +300,7 @@ func testNPMFrontend(t *testing.T, context spec.G, it spec.S) {
 
 				Expect(logs).NotTo(ContainLines(ContainSubstring("Buildpack for Nginx Server")))
 
-				Expect(image.Buildpacks[7].Key).To(Equal("paketo-buildpacks/environment-variables"))
+				Expect(image.Buildpacks[7].Key).To(Equal("initializ-buildpacks/environment-variables"))
 				Expect(image.Buildpacks[7].Layers["environment-variables"].Metadata["variables"]).To(Equal(map[string]interface{}{"SOME_VARIABLE": "some-value"}))
 				Expect(image.Labels["some-label"]).To(Equal("some-value"))
 

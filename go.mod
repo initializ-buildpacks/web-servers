@@ -1,6 +1,8 @@
-module github.com/paketo-buildpacks/web-servers
+module github.com/initializ-buildpacks/web-servers
 
-go 1.18
+go 1.21
+
+toolchain go1.22.0
 
 require (
 	github.com/onsi/gomega v1.31.1
