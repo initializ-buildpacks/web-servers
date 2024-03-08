@@ -42,12 +42,12 @@ api = "0.7"
 
   [[order.group]]
     id = "initializ-buildpacks/nginx"
-    version = "0.15.9"
+    version = "0.15.10"
 
   [[order.group]]
     id = "initializ-buildpacks/procfile"
     optional = true
-    version = "5.6.9"
+    version = "5.6.10"
 
   [[order.group]]
     id = "initializ-buildpacks/environment-variables"
@@ -89,12 +89,12 @@ api = "0.7"
 
   [[order.group]]
     id = "initializ-buildpacks/nginx"
-    version = "0.15.9"
+    version = "0.15.10"
 
   [[order.group]]
     id = "initializ-buildpacks/procfile"
     optional = true
-    version = "5.6.9"
+    version = "5.6.10"
 
   [[order.group]]
     id = "initializ-buildpacks/environment-variables"
@@ -140,12 +140,12 @@ api = "0.7"
 
   [[order.group]]
     id = "initializ-buildpacks/httpd"
-    version = "0.7.17"
+    version = "0.7.18"
 
   [[order.group]]
     id = "initializ-buildpacks/procfile"
     optional = true
-    version = "5.6.9"
+    version = "5.6.10"
 
   [[order.group]]
     id = "initializ-buildpacks/environment-variables"
@@ -187,12 +187,12 @@ api = "0.7"
 
   [[order.group]]
     id = "initializ-buildpacks/httpd"
-    version = "0.7.17"
+    version = "0.7.18"
 
   [[order.group]]
     id = "initializ-buildpacks/procfile"
     optional = true
-    version = "5.6.9"
+    version = "5.6.10"
 
   [[order.group]]
     id = "initializ-buildpacks/environment-variables"
@@ -222,12 +222,12 @@ api = "0.7"
 
   [[order.group]]
     id = "initializ-buildpacks/nginx"
-    version = "0.15.9"
+    version = "0.15.10"
 
   [[order.group]]
     id = "initializ-buildpacks/procfile"
     optional = true
-    version = "5.6.9"
+    version = "5.6.10"
 
   [[order.group]]
     id = "initializ-buildpacks/environment-variables"
@@ -257,12 +257,12 @@ api = "0.7"
 
   [[order.group]]
     id = "initializ-buildpacks/httpd"
-    version = "0.7.17"
+    version = "0.7.18"
 
   [[order.group]]
     id = "initializ-buildpacks/procfile"
     optional = true
-    version = "5.6.9"
+    version = "5.6.10"
 
   [[order.group]]
     id = "initializ-buildpacks/environment-variables"
