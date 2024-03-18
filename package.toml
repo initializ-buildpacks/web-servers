@@ -15,7 +15,7 @@
   uri = "public.ecr.aws/initializ/buildpack/httpd@sha256:848aa7d4bc91ba14f8d0f16d57ad9072eece16082411112a0a80471bed32ef09"
 
 [[dependencies]]
-  uri = "public.ecr.aws/initializ/buildpack/nginx@sha256:321124fc19ccabc6a2a886b2dd9bfcbbc2b4706981c0d583e8c93985bd69b444"
+  uri = "public.ecr.aws/initializ/buildpack/nginx@sha256:34d4bb5077e88cf48cf4cff57b28e9e94675be96c80b114104fdc7b493040285"
 
 [[dependencies]]
   uri = "public.ecr.aws/initializ/nodejs@sha256:a27b03f34b66e6e42cdc39a940ceaa578c88e97733f08fb7079bb1dcf3be8386"
