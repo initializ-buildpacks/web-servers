@@ -42,7 +42,7 @@ api = "0.7"
 
   [[order.group]]
     id = "initializ-buildpacks/nginx"
-    version = "0.15.15"
+    version = "0.15.16"
 
   [[order.group]]
     id = "initializ-buildpacks/procfile"
@@ -89,7 +89,7 @@ api = "0.7"
 
   [[order.group]]
     id = "initializ-buildpacks/nginx"
-    version = "0.15.15"
+    version = "0.15.16"
 
   [[order.group]]
     id = "initializ-buildpacks/procfile"
@@ -222,7 +222,7 @@ api = "0.7"
 
   [[order.group]]
     id = "initializ-buildpacks/nginx"
-    version = "0.15.15"
+    version = "0.15.16"
 
   [[order.group]]
     id = "initializ-buildpacks/procfile"
