@@ -2,7 +2,7 @@ module github.com/initializ-buildpacks/web-servers
 
 go 1.22
 
-toolchain go1.22.0
+toolchain go1.22.4
 
 require (
 	github.com/onsi/gomega v1.33.1
