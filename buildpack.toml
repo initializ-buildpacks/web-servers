@@ -17,7 +17,7 @@ api = "0.7"
   [[order.group]]
     id = "initializ-buildpacks/ca-certificates"
     optional = true
-    version = "4.0.2"
+    version = "4.0.1"
 
   [[order.group]]
     id = "initializ-buildpacks/watchexec"
@@ -47,7 +47,7 @@ api = "0.7"
   [[order.group]]
     id = "initializ-buildpacks/procfile"
     optional = true
-    version = "5.6.18"
+    version = "5.6.19"
 
   [[order.group]]
     id = "initializ-buildpacks/environment-variables"
@@ -94,7 +94,7 @@ api = "0.7"
   [[order.group]]
     id = "initializ-buildpacks/procfile"
     optional = true
-    version = "5.6.18"
+    version = "5.6.19"
 
   [[order.group]]
     id = "initializ-buildpacks/environment-variables"
@@ -115,7 +115,7 @@ api = "0.7"
   [[order.group]]
     id = "initializ-buildpacks/ca-certificates"
     optional = true
-    version = "4.0.2"
+    version = "4.0.1"
 
   [[order.group]]
     id = "initializ-buildpacks/watchexec"
@@ -145,7 +145,7 @@ api = "0.7"
   [[order.group]]
     id = "initializ-buildpacks/procfile"
     optional = true
-    version = "5.6.18"
+    version = "5.6.19"
 
   [[order.group]]
     id = "initializ-buildpacks/environment-variables"
@@ -166,7 +166,7 @@ api = "0.7"
   [[order.group]]
     id = "initializ-buildpacks/ca-certificates"
     optional = true
-    version = "4.0.2"
+    version = "4.0.1"
 
   [[order.group]]
     id = "initializ-buildpacks/watchexec"
@@ -192,7 +192,7 @@ api = "0.7"
   [[order.group]]
     id = "initializ-buildpacks/procfile"
     optional = true
-    version = "5.6.18"
+    version = "5.6.19"
 
   [[order.group]]
     id = "initializ-buildpacks/environment-variables"
@@ -213,7 +213,7 @@ api = "0.7"
   [[order.group]]
     id = "initializ-buildpacks/ca-certificates"
     optional = true
-    version = "4.0.2"
+    version = "4.0.1"
 
   [[order.group]]
     id = "initializ-buildpacks/watchexec"
@@ -227,7 +227,7 @@ api = "0.7"
   [[order.group]]
     id = "initializ-buildpacks/procfile"
     optional = true
-    version = "5.6.18"
+    version = "5.6.19"
 
   [[order.group]]
     id = "initializ-buildpacks/environment-variables"
@@ -248,7 +248,7 @@ api = "0.7"
   [[order.group]]
     id = "initializ-buildpacks/ca-certificates"
     optional = true
-    version = "4.0.2"
+    version = "4.0.1"
 
   [[order.group]]
     id = "initializ-buildpacks/watchexec"
@@ -262,7 +262,7 @@ api = "0.7"
   [[order.group]]
     id = "initializ-buildpacks/procfile"
     optional = true
-    version = "5.6.18"
+    version = "5.6.19"
 
   [[order.group]]
     id = "initializ-buildpacks/environment-variables"
