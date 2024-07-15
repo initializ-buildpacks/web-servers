@@ -14,12 +14,6 @@ repository](https://github.com/initializ-buildpacks/samples) under
 the [`web-servers`
 directory](https://github.com/initializ-buildpacks/samples/tree/main/web-servers).
 
-#### The Web Servers buildpack is only compatible with the following builder:
-- [Paketo Jammy Full Builder](https://github.com/paketo-buildpacks/builder-jammy-full)
-- [Paketo Jammy Base Builder](https://github.com/paketo-buildpacks/builder-jammy-base)
-- [Paketo Bionic Full Builder](https://github.com/paketo-buildpacks/full-builder)
-- [Paketo Bionic Base Builder](https://github.com/paketo-buildpacks/base-builder)
-
 This buildpack also includes the following utility buildpacks:
 - [Procfile CNB](https://github.com/initializ-buildpacks/procfile)
 - [Environment Variables CNB](https://github.com/initializ-buildpacks/environment-variables)
