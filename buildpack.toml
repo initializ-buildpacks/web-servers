@@ -26,23 +26,23 @@ api = "0.7"
 
   [[order.group]]
     id = "initializ-buildpacks/node-engine"
-    version = "3.6.5"
+    version = "3.6.6"
 
   [[order.group]]
     id = "initializ-buildpacks/yarn"
-    version = "1.2.9"
+    version = "1.2.10"
 
   [[order.group]]
     id = "initializ-buildpacks/yarn-install"
-    version = "1.2.11"
+    version = "1.2.12"
 
   [[order.group]]
     id = "initializ-buildpacks/node-run-script"
-    version = "1.0.21"
+    version = "1.0.22"
 
   [[order.group]]
     id = "initializ-buildpacks/nginx"
-    version = "0.15.23"
+    version = "0.16.0"
 
   [[order.group]]
     id = "initializ-buildpacks/procfile"
@@ -61,7 +61,7 @@ api = "0.7"
 
   [[order.group]]
     id = "initializ-buildpacks/source-removal"
-    version = "0.2.5"
+    version = "0.2.6"
 
 [[order]]
 
@@ -77,7 +77,7 @@ api = "0.7"
 
   [[order.group]]
     id = "initializ-buildpacks/node-engine"
-    version = "3.6.5"
+    version = "3.6.6"
 
   [[order.group]]
     id = "initializ-buildpacks/npm-install"
@@ -85,11 +85,11 @@ api = "0.7"
 
   [[order.group]]
     id = "initializ-buildpacks/node-run-script"
-    version = "1.0.21"
+    version = "1.0.22"
 
   [[order.group]]
     id = "initializ-buildpacks/nginx"
-    version = "0.15.23"
+    version = "0.16.0"
 
   [[order.group]]
     id = "initializ-buildpacks/procfile"
@@ -108,7 +108,7 @@ api = "0.7"
 
   [[order.group]]
     id = "initializ-buildpacks/source-removal"
-    version = "0.2.5"
+    version = "0.2.6"
 
 [[order]]
 
@@ -124,19 +124,19 @@ api = "0.7"
 
   [[order.group]]
     id = "initializ-buildpacks/node-engine"
-    version = "3.6.5"
+    version = "3.6.6"
 
   [[order.group]]
     id = "initializ-buildpacks/yarn"
-    version = "1.2.9"
+    version = "1.2.10"
 
   [[order.group]]
     id = "initializ-buildpacks/yarn-install"
-    version = "1.2.11"
+    version = "1.2.12"
 
   [[order.group]]
     id = "initializ-buildpacks/node-run-script"
-    version = "1.0.21"
+    version = "1.0.22"
 
   [[order.group]]
     id = "initializ-buildpacks/httpd"
@@ -159,7 +159,7 @@ api = "0.7"
 
   [[order.group]]
     id = "initializ-buildpacks/source-removal"
-    version = "0.2.5"
+    version = "0.2.6"
 
 [[order]]
 
@@ -175,7 +175,7 @@ api = "0.7"
 
   [[order.group]]
     id = "initializ-buildpacks/node-engine"
-    version = "3.6.5"
+    version = "3.6.6"
 
   [[order.group]]
     id = "initializ-buildpacks/npm-install"
@@ -183,7 +183,7 @@ api = "0.7"
 
   [[order.group]]
     id = "initializ-buildpacks/node-run-script"
-    version = "1.0.21"
+    version = "1.0.22"
 
   [[order.group]]
     id = "initializ-buildpacks/httpd"
@@ -206,7 +206,7 @@ api = "0.7"
 
   [[order.group]]
     id = "initializ-buildpacks/source-removal"
-    version = "0.2.5"
+    version = "0.2.6"
 
 [[order]]
 
@@ -222,7 +222,7 @@ api = "0.7"
 
   [[order.group]]
     id = "initializ-buildpacks/nginx"
-    version = "0.15.23"
+    version = "0.16.0"
 
   [[order.group]]
     id = "initializ-buildpacks/procfile"
@@ -241,7 +241,7 @@ api = "0.7"
 
   [[order.group]]
     id = "initializ-buildpacks/source-removal"
-    version = "0.2.5"
+    version = "0.2.6"
 
 [[order]]
 
@@ -276,4 +276,4 @@ api = "0.7"
 
   [[order.group]]
     id = "initializ-buildpacks/source-removal"
-    version = "0.2.5"
+    version = "0.2.6"
