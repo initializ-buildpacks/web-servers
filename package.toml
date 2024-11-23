@@ -18,7 +18,7 @@
   uri = "urn:cnb:registry:initializ-buildpacks/nginx@0.16.2"
 
 [[dependencies]]
-  uri = "urn:cnb:registry:initializ-buildpacks/yarn@1.2.10"
+  uri = "urn:cnb:registry:initializ-buildpacks/yarn@1.2.11"
 
 [[dependencies]]
   uri = "urn:cnb:registry:initializ-buildpacks/yarn-install@1.2.12"
