@@ -22,7 +22,7 @@ api = "0.7"
   [[order.group]]
     id = "initializ-buildpacks/watchexec"
     optional = true
-    version = "2.8.15"
+    version = "2.8.16"
 
   [[order.group]]
     id = "initializ-buildpacks/node-engine"
@@ -38,30 +38,30 @@ api = "0.7"
 
   [[order.group]]
     id = "initializ-buildpacks/node-run-script"
-    version = "1.0.24"
+    version = "1.0.25"
 
   [[order.group]]
     id = "initializ-buildpacks/nginx"
-    version = "0.16.3"
+    version = "1.16.4"
 
   [[order.group]]
     id = "initializ-buildpacks/procfile"
     optional = true
-    version = "5.6.21"
+    version = "5.6.22"
 
   [[order.group]]
     id = "initializ-buildpacks/environment-variables"
     optional = true
-    version = "4.5.14"
+    version = "4.5.15"
 
   [[order.group]]
     id = "initializ-buildpacks/image-labels"
     optional = true
-    version = "4.6.3"
+    version = "4.6.4"
 
   [[order.group]]
     id = "initializ-buildpacks/source-removal"
-    version = "0.2.7"
+    version = "0.2.8"
 
 [[order]]
 
@@ -73,7 +73,7 @@ api = "0.7"
   [[order.group]]
     id = "initializ-buildpacks/watchexec"
     optional = true
-    version = "2.8.15"
+    version = "2.8.16"
 
   [[order.group]]
     id = "initializ-buildpacks/node-engine"
@@ -81,34 +81,34 @@ api = "0.7"
 
   [[order.group]]
     id = "initializ-buildpacks/npm-install"
-    version = "1.3.12"
+    version = "1.3.14"
 
   [[order.group]]
     id = "initializ-buildpacks/node-run-script"
-    version = "1.0.24"
+    version = "1.0.25"
 
   [[order.group]]
     id = "initializ-buildpacks/nginx"
-    version = "0.16.3"
+    version = "1.16.4"
 
   [[order.group]]
     id = "initializ-buildpacks/procfile"
     optional = true
-    version = "5.6.21"
+    version = "5.6.22"
 
   [[order.group]]
     id = "initializ-buildpacks/environment-variables"
     optional = true
-    version = "4.5.14"
+    version = "4.5.15"
 
   [[order.group]]
     id = "initializ-buildpacks/image-labels"
     optional = true
-    version = "4.6.3"
+    version = "4.6.4"
 
   [[order.group]]
     id = "initializ-buildpacks/source-removal"
-    version = "0.2.7"
+    version = "0.2.8"
 
 [[order]]
 
@@ -120,7 +120,7 @@ api = "0.7"
   [[order.group]]
     id = "initializ-buildpacks/watchexec"
     optional = true
-    version = "2.8.15"
+    version = "2.8.16"
 
   [[order.group]]
     id = "initializ-buildpacks/node-engine"
@@ -136,30 +136,30 @@ api = "0.7"
 
   [[order.group]]
     id = "initializ-buildpacks/node-run-script"
-    version = "1.0.24"
+    version = "1.0.25"
 
   [[order.group]]
     id = "initializ-buildpacks/httpd"
-    version = "0.7.25"
+    version = "0.7.26"
 
   [[order.group]]
     id = "initializ-buildpacks/procfile"
     optional = true
-    version = "5.6.21"
+    version = "5.6.22"
 
   [[order.group]]
     id = "initializ-buildpacks/environment-variables"
     optional = true
-    version = "4.5.14"
+    version = "4.5.15"
 
   [[order.group]]
     id = "initializ-buildpacks/image-labels"
     optional = true
-    version = "4.6.3"
+    version = "4.6.4"
 
   [[order.group]]
     id = "initializ-buildpacks/source-removal"
-    version = "0.2.7"
+    version = "0.2.8"
 
 [[order]]
 
@@ -171,7 +171,7 @@ api = "0.7"
   [[order.group]]
     id = "initializ-buildpacks/watchexec"
     optional = true
-    version = "2.8.15"
+    version = "2.8.16"
 
   [[order.group]]
     id = "initializ-buildpacks/node-engine"
@@ -179,34 +179,34 @@ api = "0.7"
 
   [[order.group]]
     id = "initializ-buildpacks/npm-install"
-    version = "1.3.12"
+    version = "1.3.14"
 
   [[order.group]]
     id = "initializ-buildpacks/node-run-script"
-    version = "1.0.24"
+    version = "1.0.25"
 
   [[order.group]]
     id = "initializ-buildpacks/httpd"
-    version = "0.7.25"
+    version = "0.7.26"
 
   [[order.group]]
     id = "initializ-buildpacks/procfile"
     optional = true
-    version = "5.6.21"
+    version = "5.6.22"
 
   [[order.group]]
     id = "initializ-buildpacks/environment-variables"
     optional = true
-    version = "4.5.14"
+    version = "4.5.15"
 
   [[order.group]]
     id = "initializ-buildpacks/image-labels"
     optional = true
-    version = "4.6.3"
+    version = "4.6.4"
 
   [[order.group]]
     id = "initializ-buildpacks/source-removal"
-    version = "0.2.7"
+    version = "0.2.8"
 
 [[order]]
 
@@ -218,30 +218,30 @@ api = "0.7"
   [[order.group]]
     id = "initializ-buildpacks/watchexec"
     optional = true
-    version = "2.8.15"
+    version = "2.8.16"
 
   [[order.group]]
     id = "initializ-buildpacks/nginx"
-    version = "0.16.3"
+    version = "1.16.4"
 
   [[order.group]]
     id = "initializ-buildpacks/procfile"
     optional = true
-    version = "5.6.21"
+    version = "5.6.22"
 
   [[order.group]]
     id = "initializ-buildpacks/environment-variables"
     optional = true
-    version = "4.5.14"
+    version = "4.5.15"
 
   [[order.group]]
     id = "initializ-buildpacks/image-labels"
     optional = true
-    version = "4.6.3"
+    version = "4.6.4"
 
   [[order.group]]
     id = "initializ-buildpacks/source-removal"
-    version = "0.2.7"
+    version = "0.2.8"
 
 [[order]]
 
@@ -253,27 +253,27 @@ api = "0.7"
   [[order.group]]
     id = "initializ-buildpacks/watchexec"
     optional = true
-    version = "2.8.15"
+    version = "2.8.16"
 
   [[order.group]]
     id = "initializ-buildpacks/httpd"
-    version = "0.7.25"
+    version = "0.7.26"
 
   [[order.group]]
     id = "initializ-buildpacks/procfile"
     optional = true
-    version = "5.6.21"
+    version = "5.6.22"
 
   [[order.group]]
     id = "initializ-buildpacks/environment-variables"
     optional = true
-    version = "4.5.14"
+    version = "4.5.15"
 
   [[order.group]]
     id = "initializ-buildpacks/image-labels"
     optional = true
-    version = "4.6.3"
+    version = "4.6.4"
 
   [[order.group]]
     id = "initializ-buildpacks/source-removal"
-    version = "0.2.7"
+    version = "0.2.8"
