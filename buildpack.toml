@@ -34,7 +34,7 @@ api = "0.7"
 
   [[order.group]]
     id = "initializ-buildpacks/yarn-install"
-    version = "1.2.13" 
+    version = "1.2.14" 
 
   [[order.group]]
     id = "initializ-buildpacks/node-run-script"
@@ -42,7 +42,7 @@ api = "0.7"
 
   [[order.group]]
     id = "initializ-buildpacks/nginx"
-    version = "1.16.4"
+    version = "1.16.5"
 
   [[order.group]]
     id = "initializ-buildpacks/procfile"
@@ -89,7 +89,7 @@ api = "0.7"
 
   [[order.group]]
     id = "initializ-buildpacks/nginx"
-    version = "1.16.4"
+    version = "1.16.5"
 
   [[order.group]]
     id = "initializ-buildpacks/procfile"
@@ -132,7 +132,7 @@ api = "0.7"
 
   [[order.group]]
     id = "initializ-buildpacks/yarn-install"
-    version = "1.2.13" 
+    version = "1.2.14" 
 
   [[order.group]]
     id = "initializ-buildpacks/node-run-script"
@@ -140,7 +140,7 @@ api = "0.7"
 
   [[order.group]]
     id = "initializ-buildpacks/httpd"
-    version = "0.7.26"
+    version = "0.7.27"
 
   [[order.group]]
     id = "initializ-buildpacks/procfile"
@@ -187,7 +187,7 @@ api = "0.7"
 
   [[order.group]]
     id = "initializ-buildpacks/httpd"
-    version = "0.7.26"
+    version = "0.7.27"
 
   [[order.group]]
     id = "initializ-buildpacks/procfile"
@@ -222,7 +222,7 @@ api = "0.7"
 
   [[order.group]]
     id = "initializ-buildpacks/nginx"
-    version = "1.16.4"
+    version = "1.16.5"
 
   [[order.group]]
     id = "initializ-buildpacks/procfile"
@@ -257,7 +257,7 @@ api = "0.7"
 
   [[order.group]]
     id = "initializ-buildpacks/httpd"
-    version = "0.7.26"
+    version = "0.7.27"
 
   [[order.group]]
     id = "initializ-buildpacks/procfile"
