@@ -26,15 +26,15 @@ api = "0.7"
 
   [[order.group]]
     id = "initializ-buildpacks/node-engine"
-    version = "3.6.15"
+    version = "3.6.16"
 
   [[order.group]]
     id = "initializ-buildpacks/yarn"
-    version = "1.2.14"
+    version = "1.2.15"
 
   [[order.group]]
     id = "initializ-buildpacks/yarn-install"
-    version = "1.2.15"
+    version = "1.2.16"
 
   [[order.group]]
     id = "initializ-buildpacks/node-run-script"
@@ -77,7 +77,7 @@ api = "0.7"
 
   [[order.group]]
     id = "initializ-buildpacks/node-engine"
-    version = "3.6.15"
+    version = "3.6.16"
 
   [[order.group]]
     id = "initializ-buildpacks/npm-install"
@@ -124,15 +124,15 @@ api = "0.7"
 
   [[order.group]]
     id = "initializ-buildpacks/node-engine"
-    version = "3.6.15"
+    version = "3.6.16"
 
   [[order.group]]
     id = "initializ-buildpacks/yarn"
-    version = "1.2.14"
+    version = "1.2.15"
 
   [[order.group]]
     id = "initializ-buildpacks/yarn-install"
-    version = "1.2.15"
+    version = "1.2.16"
 
   [[order.group]]
     id = "initializ-buildpacks/node-run-script"
@@ -175,7 +175,7 @@ api = "0.7"
 
   [[order.group]]
     id = "initializ-buildpacks/node-engine"
-    version = "3.6.15"
+    version = "3.6.16"
 
   [[order.group]]
     id = "initializ-buildpacks/npm-install"
