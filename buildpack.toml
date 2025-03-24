@@ -17,7 +17,7 @@ api = "0.7"
   [[order.group]]
     id = "initializ-buildpacks/ca-certificates"
     optional = true
-    version = "4.0.5"
+    version = "4.0.6"
 
   [[order.group]]
     id = "initializ-buildpacks/watchexec"
@@ -52,12 +52,12 @@ api = "0.7"
   [[order.group]]
     id = "initializ-buildpacks/environment-variables"
     optional = true
-    version = "4.5.15"
+    version = "4.5.16"
 
   [[order.group]]
     id = "initializ-buildpacks/image-labels"
     optional = true
-    version = "4.6.4"
+    version = "4.6.5"
 
   [[order.group]]
     id = "initializ-buildpacks/source-removal"
@@ -68,7 +68,7 @@ api = "0.7"
   [[order.group]]
     id = "initializ-buildpacks/ca-certificates"
     optional = true
-    version = "4.0.5"
+    version = "4.0.6"
 
   [[order.group]]
     id = "initializ-buildpacks/watchexec"
@@ -99,12 +99,12 @@ api = "0.7"
   [[order.group]]
     id = "initializ-buildpacks/environment-variables"
     optional = true
-    version = "4.5.15"
+    version = "4.5.16"
 
   [[order.group]]
     id = "initializ-buildpacks/image-labels"
     optional = true
-    version = "4.6.4"
+    version = "4.6.5"
 
   [[order.group]]
     id = "initializ-buildpacks/source-removal"
@@ -115,7 +115,7 @@ api = "0.7"
   [[order.group]]
     id = "initializ-buildpacks/ca-certificates"
     optional = true
-    version = "4.0.5"
+    version = "4.0.6"
 
   [[order.group]]
     id = "initializ-buildpacks/watchexec"
@@ -150,12 +150,12 @@ api = "0.7"
   [[order.group]]
     id = "initializ-buildpacks/environment-variables"
     optional = true
-    version = "4.5.15"
+    version = "4.5.16"
 
   [[order.group]]
     id = "initializ-buildpacks/image-labels"
     optional = true
-    version = "4.6.4"
+    version = "4.6.5"
 
   [[order.group]]
     id = "initializ-buildpacks/source-removal"
@@ -166,7 +166,7 @@ api = "0.7"
   [[order.group]]
     id = "initializ-buildpacks/ca-certificates"
     optional = true
-    version = "4.0.5"
+    version = "4.0.6"
 
   [[order.group]]
     id = "initializ-buildpacks/watchexec"
@@ -197,12 +197,12 @@ api = "0.7"
   [[order.group]]
     id = "initializ-buildpacks/environment-variables"
     optional = true
-    version = "4.5.15"
+    version = "4.5.16"
 
   [[order.group]]
     id = "initializ-buildpacks/image-labels"
     optional = true
-    version = "4.6.4"
+    version = "4.6.5"
 
   [[order.group]]
     id = "initializ-buildpacks/source-removal"
@@ -213,7 +213,7 @@ api = "0.7"
   [[order.group]]
     id = "initializ-buildpacks/ca-certificates"
     optional = true
-    version = "4.0.5"
+    version = "4.0.6"
 
   [[order.group]]
     id = "initializ-buildpacks/watchexec"
@@ -232,12 +232,12 @@ api = "0.7"
   [[order.group]]
     id = "initializ-buildpacks/environment-variables"
     optional = true
-    version = "4.5.15"
+    version = "4.5.16"
 
   [[order.group]]
     id = "initializ-buildpacks/image-labels"
     optional = true
-    version = "4.6.4"
+    version = "4.6.5"
 
   [[order.group]]
     id = "initializ-buildpacks/source-removal"
@@ -248,7 +248,7 @@ api = "0.7"
   [[order.group]]
     id = "initializ-buildpacks/ca-certificates"
     optional = true
-    version = "4.0.5"
+    version = "4.0.6"
 
   [[order.group]]
     id = "initializ-buildpacks/watchexec"
@@ -267,12 +267,12 @@ api = "0.7"
   [[order.group]]
     id = "initializ-buildpacks/environment-variables"
     optional = true
-    version = "4.5.15"
+    version = "4.5.16"
 
   [[order.group]]
     id = "initializ-buildpacks/image-labels"
     optional = true
-    version = "4.6.4"
+    version = "4.6.5"
 
   [[order.group]]
     id = "initializ-buildpacks/source-removal"

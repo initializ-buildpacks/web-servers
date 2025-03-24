@@ -27,16 +27,16 @@
   uri = "urn:cnb:registry:initializ-buildpacks/procfile@5.6.22"
 
 [[dependencies]]
-  uri = "urn:cnb:registry:initializ-buildpacks/environment-variables@4.5.15"
+  uri = "urn:cnb:registry:initializ-buildpacks/environment-variables@4.5.16"
 
 [[dependencies]]
-  uri = "urn:cnb:registry:initializ-buildpacks/image-labels@4.6.4"
+  uri = "urn:cnb:registry:initializ-buildpacks/image-labels@4.6.5"
 
 [[dependencies]]
   uri = "urn:cnb:registry:initializ-buildpacks/watchexec@2.8.16"
 
 [[dependencies]]
-  uri = "urn:cnb:registry:initializ-buildpacks/ca-certificates@4.0.5"
+  uri = "urn:cnb:registry:initializ-buildpacks/ca-certificates@4.0.6"
 
 [[dependencies]]
   uri = "urn:cnb:registry:initializ-buildpacks/source-removal@0.2.8"
