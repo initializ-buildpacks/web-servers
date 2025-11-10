@@ -1,6 +1,6 @@
 module github.com/initializ-buildpacks/web-servers
 
-go 1.25.3
+go 1.25.4
 
 require (
 	github.com/onsi/gomega v1.36.1
